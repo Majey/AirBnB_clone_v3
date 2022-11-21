@@ -153,7 +153,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## 
 
 ## Authors
-victor - [Github](https://github.com/victorazangu)  
+Esther Muthui
+Kevin Erick
 
 ## License
 Public Domain. No copy write protection. 
