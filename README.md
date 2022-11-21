@@ -153,8 +153,9 @@ EOF  all  create  destroy  help  quit  show  update
 ## 
 
 ## Authors
-  Esther Muthui
-  Kevin Erick
+  - Esther Muthui
+  
+  - Kevin Erick
 
 ## License
 Public Domain. No copy write protection. 
